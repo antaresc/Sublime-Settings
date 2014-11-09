@@ -1,0 +1,29 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"Floobits",
+		"FTPSync",
+		"Function Name Display",
+		"GitGutter",
+		"JavaScriptNext - ES6 Syntax",
+		"LESS",
+		"LESS-build",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-javac",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-pyflakes",
+		"SublimeLinter-xmllint",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}

@@ -1,0 +1,6 @@
+[
+	// Reindent selection with cmd+alt+L
+    {
+    	"keys": ["super+shift+l"], "command": "reindent"
+    }
+]

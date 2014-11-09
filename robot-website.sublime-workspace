@@ -1,0 +1,778 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"audio	Tag"
+			],
+			[
+				"input",
+				"input_name"
+			],
+			[
+				"newProof",
+				"newProofset"
+			],
+			[
+				"ExpressionT",
+				"ExpressionTree"
+			],
+			[
+				"predicate",
+				"predicateTest"
+			],
+			[
+				"is",
+				"isomorphism"
+			],
+			[
+				"problem",
+				"problematicNodes"
+			],
+			[
+				"Cite",
+				"CiteException"
+			],
+			[
+				"add_",
+				"add_edge"
+			],
+			[
+				"parse",
+				"parse_args"
+			],
+			[
+				"premise",
+				"premiseMap"
+			],
+			[
+				"pretty",
+				"prettyPrintProof"
+			],
+			[
+				"Normali",
+				"NormalizedProof627"
+			],
+			[
+				"getProof",
+				"getProofCorrectness"
+			],
+			[
+				"Norma",
+				"NormalizedProof627"
+			],
+			[
+				"optimal",
+				"optimalCitation"
+			],
+			[
+				"prett",
+				"prettyPrintProof"
+			],
+			[
+				"incorre",
+				"incorrectLineCount"
+			],
+			[
+				"canonical",
+				"canonicalize"
+			],
+			[
+				"cita",
+				"citationData"
+			],
+			[
+				"Key",
+				"KeyError"
+			],
+			[
+				"fileContent",
+				"fileContentID"
+			],
+			[
+				"fileCO",
+				"fileContentID"
+			],
+			[
+				"reques",
+				"request"
+			],
+			[
+				"contetn",
+				"contentmapData"
+			],
+			[
+				"citation",
+				"citations"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"step",
+				"stepnum"
+			],
+			[
+				"checks",
+				"checkstatus"
+			],
+			[
+				"proofstep",
+				"proofstepData"
+			],
+			[
+				"simil",
+				"similarProofCount"
+			],
+			[
+				"norma",
+				"normalize"
+			],
+			[
+				"check",
+				"checkstatus"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"incorr",
+				"incorrectLineCount"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"formatted",
+				"formattedOutput"
+			],
+			[
+				"getMax",
+				"GetMaxDepths"
+			],
+			[
+				"correct",
+				"correctness"
+			],
+			[
+				"proofste",
+				"proofstepData"
+			],
+			[
+				"output",
+				"output"
+			],
+			[
+				"canonicalmap",
+				"canonicalmapData"
+			],
+			[
+				"arg",
+				"argparse"
+			],
+			[
+				"filecontent",
+				"filecontentid"
+			],
+			[
+				"unrea",
+				"unreachedGoals"
+			],
+			[
+				"incorrect",
+				"incorrectness"
+			],
+			[
+				"correctN",
+				"correctnessCount"
+			],
+			[
+				"incorrec",
+				"incorrectStepCount"
+			],
+			[
+				"add",
+				"add_argument"
+			],
+			[
+				"canonica",
+				"canonicalid"
+			],
+			[
+				"cano",
+				"canonicalid"
+			],
+			[
+				"betterP",
+				"betterProofstep"
+			],
+			[
+				"betterPro",
+				"betterProofstepData"
+			],
+			[
+				"proof",
+				"proof"
+			],
+			[
+				"rulename",
+				"rulename"
+			],
+			[
+				"canonicalid",
+				"canonicalid"
+			],
+			[
+				"filecon",
+				"filecontentid"
+			],
+			[
+				"contentma",
+				"contentmapData"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"robot_type",
+				"robot_type_comments"
+			],
+			[
+				"tele",
+				"teleop_general_comments"
+			],
+			[
+				"defe",
+				"defense_scale"
+			],
+			[
+				"drive",
+				"drive_power_scale"
+			],
+			[
+				"truss",
+				"truss_ratio"
+			],
+			[
+				"catch",
+				"catch_miss_ratio"
+			],
+			[
+				"low",
+				"low_goal_ratio"
+			],
+			[
+				"high",
+				"high_goal_ratio"
+			],
+			[
+				"review",
+				"review"
+			],
+			[
+				"teleop",
+				"teleop"
+			],
+			[
+				"robot",
+				"robotType"
+			],
+			[
+				"rob",
+				"robotType"
+			],
+			[
+				"ro",
+				"robotType"
+			],
+			[
+				"respons",
+				"responseData"
+			],
+			[
+				"tel",
+				"teleopKeys"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"auto",
+				"auto"
+			],
+			[
+				"attr",
+				"attr('id"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"alert",
+				"alert(\"Derp"
+			],
+			[
+				"game",
+				"gameParams"
+			],
+			[
+				"match",
+				"matchArray"
+			],
+			[
+				"Defe",
+				"Defense_Generic"
+			],
+			[
+				"De",
+				"Defense_Goalie"
+			],
+			[
+				"teamNum",
+				"teamNum"
+			],
+			[
+				"Fo",
+				"force"
+			],
+			[
+				"scrape",
+				"scrapeRegional"
+			],
+			[
+				"teamN",
+				"teamNumberArray"
+			],
+			[
+				"teamNumber",
+				"teamNumberArray"
+			],
+			[
+				"teamNu",
+				"teamNumberArray"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"look",
+				"lookUpTeam"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 93.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"package contro",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Add Repository"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/antares/Documents/Programming/Blair Robot Project/Robot-Website"
+	],
+	"file_history":
+	[
+		"/Users/antares/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/antares/Documents/Programming/Blair Robot Project/Robot-Website/app.js",
+		"/Users/antares/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/antares/Documents/Programming/Blair Robot Project/Robot-Website/utils/controller.js",
+		"/Users/antares/Documents/Programming/Blair Robot Project/Robot-Website/node_modules/mongoose/contRun.sh",
+		"/Users/antares/Documents/Programming/Blair Robot Project/Robot-Website/config.json",
+		"/Users/antares/Documents/Programming/Blair Robot Project/Robot-Website/package.json",
+		"/Users/antares/Documents/Programming/Blair Robot Project/Robot-Website/node_modules/mongoose/node_modules/mpromise/test/promises.Aplus.js",
+		"/Users/antares/Documents/Programming/Blair Robot Project/Robot-Website/bin/www",
+		"/Users/antares/Documents/Programming/Blair Robot Project/Robot-Website/npm-debug.log",
+		"/Users/antares/Documents/Programming/chat/public/css/style.css",
+		"/Users/antares/Documents/Programming/chat/index.js",
+		"/Users/antares/Documents/Programming/chat/README.md",
+		"/Users/antares/Documents/Programming/chat/index.html",
+		"/Users/antares/Documents/Programming/Proofwebs/Python/BetterJSONCreater.py",
+		"/Users/antares/Documents/Programming/Proofwebs/Proof640Text.txt",
+		"/Users/antares/Documents/Programming/chat/node_modules/socket.io/.npmignore",
+		"/Users/antares/Documents/Programming/chat/public/js/jquery.min.js",
+		"/Users/antares/Documents/Programming/chat/public/js/socket.io.min.js",
+		"/Users/antares/Documents/Programming/chat/node_modules/jquery-1.11.1.js",
+		"/Users/antares/Documents/Programming/Proofwebs/Python/Canonicalization.py",
+		"/Users/antares/Documents/Programming/Proofwebs/Python/GraphUtil.py",
+		"/Users/antares/Documents/Programming/Proofwebs/ParsingExperiments.py",
+		"/Users/antares/Documents/Programming/Proofwebs/Python/ProofFormatter.py",
+		"/Users/antares/Documents/Programming/Proofwebs/Java/ReallyLongProof3353623.html",
+		"/Users/antares/Documents/Programming/Proofwebs/Python/txt",
+		"/Users/antares/Documents/Programming/Proofwebs/Python/DemoSuperfluousSearch.py",
+		"/Users/antares/Documents/Programming/Proofwebs/Python/DemoStatistics.py",
+		"/Users/antares/Documents/Programming/Proofwebs/Java/ProofPrinter.java",
+		"/Users/antares/Documents/Programming/Proofwebs/Python/WorkingSuperfluousSearch.py",
+		"/Users/antares/Documents/Programming/Proofwebs/Python/TypeConverter.py",
+		"/Users/antares/Documents/Programming/Proofwebs/Python/log.out",
+		"/Users/antares/Documents/Programming/Proofwebs/Python/StatisticsDemo.py",
+		"/Users/antares/Documents/Programming/Proofwebs/Python/SuperfluousSearch.py",
+		"/Users/antares/Documents/Programming/Proofwebs/Java/style.css",
+		"/Users/antares/Documents/Programming/Proofwebs/Java/test.json",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/similarProofCount627.txt",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/txt",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/Proof619.txt",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/Proof225Normalize.txt",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/proofsteps.csv",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/ProofwebsUtil.py",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/TypeConverter.py",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/text.txt",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/problem29.json",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/derp.py",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/derp.txt",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/proofsteps.txt",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/mining.proofsteps.csv",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/proofsteps.json",
+		"/Users/antares/Desktop/csvToJSON.py",
+		"/Volumes/UUI/mining.proofsteps.csv",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/csvToJSON.py",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/Databases/citationsTest.json",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/Databases/contentmapTest.json",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/statistics.csv",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/incorrectCount.csv",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/prettyCanonicalmapping.txt",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/prettyProofsteps.txt",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/prettyContentmapping.txt",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/Databases/betterProofstep.json",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/betterProofstep.json",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/BetterJSONCreater.py",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/Databases/contentmap.json",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/Databases/canonicalmap.json~",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/Databases/contentmap.json~",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/prettyBetterProofstep.txt",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/prettyCitations.txt",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-utilities/scout-util.py",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/proofsteps1.json",
+		"/Users/antares/Documents/Programming/Python Workspace/Proofweb Scripts/citations.json",
+		"/Users/antares/Documents/Programming/IDEA Projects/Algorithms/src/SortingClient.java",
+		"/Users/antares/Documents/Programming/IDEA Projects/Algorithms/src/Tester.java",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-server/scout.db.tmp",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-web/templates/teams.html",
+		"/Users/antares/Downloads/codificationalcode/BottomLeftPanel.java",
+		"/Users/antares/Desktop/LEGO 3/src/Navigation.java",
+		"/Users/antares/Desktop/LEGO 3/src/RestAction.java",
+		"/Users/antares/Desktop/LEGO 3/src/CorrectionAction.java",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-web/static/script/lib/bootstrap.min.js",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-web/client.py",
+		"/Users/antares/Documents/Programming/Java Workspace/Lejos2014/src/Drive.java",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-web/templates/stats.html",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-server/Scoutmaster/resources.py",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-server/scout.db.index",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-server/scout.db",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-server/README.md",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-web/templates/tools.html",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-server/server.json",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-web/static/script/main.js",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-web/templates/teamDetail.html",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-web/static/style/main.less",
+		"/Users/antares/Desktop/leJOS_NXJ_0.9.1beta-3/samples/samples/build.properties",
+		"/Users/antares/Documents/Programming/Python Scripts/ImageDownloader.py",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-server/LICENSE.md",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-web/static/script/lib/less.min.js",
+		"/Volumes/HandIn/Dvorsky/Period5/ACSL Intermediate/Contest 2/Mu_Raphael.cpp",
+		"/Volumes/HandIn/Dvorsky/Period5/ACSL SENIOR /Contest 2/Antares Chen.java",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-web/templates/rootView.html",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-server/Scoutmaster/util.py",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-server/Scoutmaster/server.json",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-server/Scoutmaster/serverAPI.txt",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-server/Scoutmaster/types.py",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-web/static/script/iconStrings.js",
+		"/Users/antares/Desktop/runpls.bat",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-utilities/tester.py",
+		"/Users/antares/Desktop/client.py",
+		"/Users/antares/Desktop/EvoLisa/Core/Classes/FileUtil.cs",
+		"/Users/antares/Desktop/EvoLisa/Gui/Canvas.Designer.cs",
+		"/Users/antares/Desktop/EvoLisa/Core/AST/DnaPolygon.cs",
+		"/Users/antares/Desktop/EvoLisa/Core/AST/DnaPoint.cs",
+		"/Users/antares/Desktop/EvoLisa/Core/AST/DnaDrawing.cs",
+		"/Users/antares/Desktop/EvoLisa/Core/AST/DnaBrush.cs",
+		"/Users/antares/Desktop/EvoLisa/Core/Classes/Renderer.cs",
+		"/Users/antares/Documents/Programming/Java Workspace/Genetic Algorithm/src/GeneticAlgorithm.java",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-utilities/derp.txt",
+		"/Users/antares/Documents/Programming/Python Workspace/Scoutmaster-9000/Scoutmaster-9000-utilities/output.txt",
+		"/Users/antares/Documents/Documents/TeX Documents/Comp Team HW/Week 5-Regular Expressions and CFG.tex",
+		"/Users/antares/Desktop/ez_setup.py",
+		"/Users/antares/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"self.proof",
+			"label",
+			"print",
+			"equalsLine",
+			"searchProof",
+			"^",
+			"getCorrectness",
+			"open",
+			"2  d&e",
+			"d&e",
+			"3416220",
+			"3302942",
+			"tablefmt",
+			"data",
+			"",
+			"08201599",
+			"3720336",
+			"fetchTeam",
+			"ArrayList",
+			" onkeyup=\"//checkCommas(this);\" onblur=\"//checkCommas(this);\"",
+			" onkeyup=\"//checkCommas(this);\" onblur=\"//checkCommas(this);",
+			"print",
+			"top-",
+			"top",
+			"],",
+			" = ",
+			"\"",
+			"robot_type_comments",
+			" : ",
+			"print",
+			"onkeyup=\"checkCommas();\" onblur=\"checkCommas();\"",
+			"onreadystatechange=\"checkCommas();\"",
+			"onstatechange",
+			"checkCommas()",
+			"onstatechange",
+			"type=\"text",
+			"onload",
+			"ordered",
+			"review",
+			".stringify",
+			"auto",
+			".push(a)",
+			"vsl",
+			"reviewData",
+			"ResourceList",
+			"variable",
+			".items()",
+			"<form",
+			"<input",
+			"'button'",
+			"id=$variable>",
+			"<label class=\"btn btn-default\">",
+			"square",
+			"src",
+			"script",
+			"alert",
+			"});\n",
+			"button",
+			"textarea",
+			"Auto",
+			"storePhotoData",
+			"print",
+			"rgba",
+			"print",
+			"gameParams",
+			"Tools",
+			"force",
+			"setTeam",
+			"print",
+			"teamNick",
+			"get_payload",
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&",
+			"LinkedList",
+			"",
+			"]),",
+			"",
+			"]),",
+			", ",
+			"",
+			" = ",
+			"onkeyup=\"checkCommas(this);\" onblur=\"checkCommas(this);\"",
+			"onkeyup=\"checkCommas();\" onblur=\"checkCommas();\"",
+			"onreadystatechange",
+			"checkCommas();",
+			".parse",
+			" += a",
+			" += a;",
+			"type",
+			"<input required",
+			">",
+			"",
+			"<label class=\"btn btn-default\" id=$variable>"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 104.0
+	},
+	"output.find_results":
+	{
+		"height": 96.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "robot-website.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Java/ProofPrinter.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

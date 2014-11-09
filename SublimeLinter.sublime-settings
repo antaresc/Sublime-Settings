@@ -1,0 +1,120 @@
+{
+	"user":
+	{
+		"linters":
+		{
+			"annotations":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"errors":
+				[
+					"FIXME"
+				],
+				"excludes":
+				[
+				],
+				"warnings":
+				[
+					"TODO",
+					"README"
+				]
+			},
+			"csslint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"errors": "",
+				"excludes":
+				[
+				],
+				"ignore": "",
+				"warnings": ""
+			},
+			"htmltidy":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
+			"javac":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"lint": ""
+			},
+			"jshint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
+			"json":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"strict": true
+			},
+			"pyflakes":
+			{
+				"@disable": true,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
+			"pylint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"disable": "",
+				"enable": "",
+				"excludes":
+				[
+				],
+				"paths":
+				[
+				],
+				"rcfile": "",
+				"show-codes": false
+			},
+			"xmllint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			}
+		},
+		"mark_style": "none"
+	}
+}
